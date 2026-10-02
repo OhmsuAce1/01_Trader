@@ -1,0 +1,13 @@
+# Core Framework
+streamlit>=1.35.0
+
+# Market Data & Analysis
+yfinance>=0.2.40
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Visualization & Charts
+plotly>=5.22.0
+
+# Google Gemini AI Integration
+google-genai>=1.0.0

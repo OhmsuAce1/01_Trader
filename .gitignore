@@ -1,0 +1,41 @@
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit secrets (Do NOT commit sensitive API keys)
+.streamlit/secrets.toml
+
+# Streamlit temporary data and caches
+.streamlit/*.log
+
+# Environment variables & secrets
+.env
+.env.*
+*.env
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and editor files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*~
+.vscode/
+.idea/
+
+# Local data files created at runtime (optional user watchlist)
+# watchlist.json
